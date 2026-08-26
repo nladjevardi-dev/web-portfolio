@@ -1,0 +1,13 @@
+Design Audit
+
+My navigation menu is easy to find on every page.
+
+My website has larger headings showing the most important information.
+
+My text is easy to read because it uses clear fonts and light text on a dark background.
+
+Accessibility Check
+
+I checked all images and made sure they have attributes.
+
+I checked the contact form and made sure every label is correctly connected to its input
