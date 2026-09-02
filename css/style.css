@@ -167,3 +167,27 @@ td {
 tbody tr:nth-child(even) {
     background-color: #333333;
 }
+
+@media (max-width: 768px) {
+
+    .grid-container {
+        grid-template-columns: 1fr;
+        grid-template-areas:
+            "header"
+            "main"
+            "sidebar"
+            "footer";
+    }
+
+    nav ul {
+        padding: 0;
+    }
+
+    main {
+        padding: 15px;
+    }
+
+    aside {
+        padding: 15px;
+    }
+}
