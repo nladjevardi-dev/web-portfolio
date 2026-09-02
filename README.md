@@ -12,4 +12,4 @@ This project is my personal portfolio website that I created while learning HTML
 
 ## Next Steps
 
-Add JavaScript to make the website more interactive.
+Add More JavaScript to make the website more interactive.
